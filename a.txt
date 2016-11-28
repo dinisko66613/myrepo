@@ -1,1 +1,1 @@
-mybranch1
+conflictresolved1
