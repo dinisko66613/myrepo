@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 jhjhhggdvdflk
+=======
+hggdvdflk
+>>>>>>> f1cacf85f439a1c7f9696b6ef621bf12b2fe4b55
 oo
